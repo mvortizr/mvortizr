@@ -1,4 +1,4 @@
-### Welcome! 👋 👋 
+## Welcome! 👋 👋 
 
 Hi! My name is María V. Ortiz. I'm ML enthusiast and an aspiring Data Scientist. :sparkles: :sparkles:
 
