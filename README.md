@@ -1,21 +1,11 @@
-### Hi! My name is María 👋
+### Welcome! 👋
 
-Welcome! I'm a Software Engineer that has a passion for Machine Learning.  <!--country flag-->
-<!--
-**mvortizr/mvortizr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is María V. Ortiz and  I'm a Software Engineer and a Machine Learning enthusiast from Venezuela :sparkles: :sparkles:
 
-I’m a 
-I've created several React with Node web applications and I love to contribute to Open Source projects and to help social causes.
+Currently I am studying Computer Engineering and I lead the AI club at my University 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
+__Some things about me__
+- 
 __Connect with me__
 <!-- Twitter, Linkedin, Dev, Medium, correo -->
 <!-- Coding, gif-->
