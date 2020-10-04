@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-Hi! My name is María V. Ortiz and  I'm a Software Engineer and a Machine Learning enthusiast from Venezuela :sparkles: :sparkles:
+Hi! My name is María V. Ortiz and  I'm Machine Learning enthusiast and aspiring Data Scientist :sparkles: :sparkles:
 
 Currently I am studying Computer Engineering and I lead the AI club at my University 
 
