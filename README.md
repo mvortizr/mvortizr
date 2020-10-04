@@ -7,7 +7,9 @@ I am studying Computer Engineering. I love learning new things everyday, collabo
 I am open for internships/part-time opportunities on Machine Learning, Data Science or Software Engineering. 
 
 
-__Connect with me__ [![Twitter](./images/twitter.svg)](https://twitter.com/mvortizr) [![Linkedin](./images/linkedin.svg)](https://www.linkedin.com/in/mvortizr/)
+__Connect with me__ 
+
+[![Twitter](./images/twitter.svg)](https://twitter.com/mvortizr) [![Linkedin](./images/linkedin.svg)](https://www.linkedin.com/in/mvortizr/)
 
 
 <!-- Ideas -->
