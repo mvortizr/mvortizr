@@ -7,7 +7,7 @@ I am studying Computer Engineering. I love learning new things everyday, collabo
 I am open for internships opportunities on Machine Learning, Data Science or Web Development. 
 
 
-__Tech stack__
+<!--__Tech stack__-->
 
 
 __Connect with me__
