@@ -14,5 +14,5 @@ __Connect with me__
 
 <!-- Ideas -->
 <!--__Tech stack__-->
-<!-- Twitter, Linkedin, Dev, Codepen, Medium, correo -->
+<!--  Dev, Codepen, Medium, Portfolio website -->
 <!-- Coding, gif-->
