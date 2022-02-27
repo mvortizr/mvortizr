@@ -1,6 +1,6 @@
 ## Welcome! 👋 👋 
 
-Hi! My name is María V. Ortiz. I'm ML enthusiast and an aspiring Data Scientist. :sparkles: :sparkles:
+Hi! My name is María V. Ortiz. I'm ML enthusiast and FullStack Web Dev :sparkles:
 
 I am studying Computer Engineering. I love learning new things everyday, collaborate with others and try fun experiments with code. I've have worked mostly as a Web Developer before and I've created several React with Node web applications as I enjoy creating websites from scratch and contribute to Open Source projects. 
 
