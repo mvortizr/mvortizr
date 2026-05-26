@@ -1,6 +1,6 @@
 ## Welcome! 👋 👋 
 
-I'm a mobile developer with shipped iOS apps and full-stack experience. Computer Engineering grad from UCAB, now diving deep into AI, Edge AI, computational neuroscience, and embedded systems.
+I'm a mobile developer with shipped iOS apps and full-stack experience. Computer Engineering grad from UCAB, now diving deep into AI and automation
 
 
 __Connect with me__ 
